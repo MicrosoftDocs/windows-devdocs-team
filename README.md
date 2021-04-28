@@ -1,3 +1,8 @@
+# Windows Developer Documentation team
+
+A repo sharing out-of-band content created by the Windows Developer Documentation team.
+
+[Bite-sized C++](bite-sized-cpp/README.md)
 
 # Contributing
 
