@@ -5,3 +5,5 @@ Take one bite per day for a shallow on-ramp to ISO Standard C++, C++/WinRT, and 
 Brought to you by the Windows Developer Documentation team.
 
 [#1. Why C++?](./posts/001.md)
+
+[#2. Header files (.h files)](./posts/002.md)
