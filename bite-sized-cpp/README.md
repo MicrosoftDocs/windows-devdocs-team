@@ -7,3 +7,6 @@ Brought to you by the Windows Developer Documentation team.
 [#1. Why C++?](./posts/001.md)
 
 [#2. Header files (.h files)](./posts/002.md)
+
+[#3. Data members, and member functions](./posts/003.md)
+
