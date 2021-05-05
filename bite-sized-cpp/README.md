@@ -10,3 +10,5 @@ Brought to you by the Windows Developer Documentation team.
 
 [#3. Data members, and member functions](./posts/003.md)
 
+[#4. Dots and arrows](./posts/004.md)
+
