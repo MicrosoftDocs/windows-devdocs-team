@@ -12,3 +12,5 @@ Brought to you by the Windows Developer Documentation team.
 
 [#4. Dots and arrows](./posts/004.md)
 
+[#5. Dots and double colons](./posts/005.md)
+
