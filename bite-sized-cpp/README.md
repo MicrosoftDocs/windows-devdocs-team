@@ -14,3 +14,5 @@ Brought to you by the Windows Developer Documentation team.
 
 [#5. Dots and double colons](./posts/005.md)
 
+[#6. Including a header file (Part 1)](./posts/006.md)
+
