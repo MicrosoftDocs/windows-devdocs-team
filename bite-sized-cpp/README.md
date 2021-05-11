@@ -18,3 +18,5 @@ Brought to you by the Windows Developer Documentation team.
 
 [#7. Including a header file (Part 2)](./posts/007.md)
 
+[#8. Including a header file (Part 3)](./posts/008.md)
+
