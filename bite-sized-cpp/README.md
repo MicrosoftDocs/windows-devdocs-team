@@ -20,3 +20,5 @@ Brought to you by the Windows Developer Documentation team.
 
 [#8. Including a header file (Part 3)](./posts/008.md)
 
+[#9. Linking, and the linker](./posts/009.md)
+
