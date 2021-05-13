@@ -22,4 +22,4 @@ Brought to you by the Windows Developer Documentation team.
 
 [#9. Linking, and the linker](./posts/009.md)
 
-[#10. Linker errors](./posts/0010.md)
+[#10. Linker errors](./posts/010.md)
