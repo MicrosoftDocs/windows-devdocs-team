@@ -23,3 +23,6 @@ Brought to you by the Windows Developer Documentation team.
 [#9. Linking, and the linker](./posts/009.md)
 
 [#10. Linker errors](./posts/010.md)
+
+[#11. Why not choose Rust over C++?](./posts/011.md)
+
