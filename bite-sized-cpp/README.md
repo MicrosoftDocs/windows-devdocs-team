@@ -26,3 +26,5 @@ Brought to you by the Windows Developer Documentation team.
 
 [#11. Why not choose Rust over C++?](./posts/011.md)
 
+[#12. Why not accept the dot operator everywhere?](./posts/012.md)
+
