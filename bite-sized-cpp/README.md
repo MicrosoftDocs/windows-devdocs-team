@@ -28,3 +28,5 @@ Brought to you by the Windows Developer Documentation team.
 
 [#12. Why not accept the dot operator everywhere?](./posts/012.md)
 
+[#13. Classes and structures are *almost* the same thing in C++ (Part 1)](./posts/013.md)
+
