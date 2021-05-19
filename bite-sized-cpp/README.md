@@ -30,3 +30,4 @@ Brought to you by the Windows Developer Documentation team.
 
 [#13. Classes and structures are *almost* the same thing in C++ (Part 1)](./posts/013.md)
 
+[#14. Classes and structures are *almost* the same thing in C++ (Part 2)](./posts/014.md)
