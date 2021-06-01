@@ -35,3 +35,5 @@ Brought to you by the Windows Developer Documentation team.
 [#15. Access specifiers (public and private)](./posts/015.md)
 
 [#16. Access specifiers (protected)](./posts/016.md)
+
+[#17. Declarations of member functions](./posts/017.md)
