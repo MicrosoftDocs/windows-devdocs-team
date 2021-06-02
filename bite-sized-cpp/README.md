@@ -37,3 +37,5 @@ Brought to you by the Windows Developer Documentation team.
 [#16. Access specifiers (protected)](./posts/016.md)
 
 [#17. Declarations of member functions](./posts/017.md)
+
+[#18. Definitions of member functions](./posts/018.md)
