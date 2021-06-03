@@ -39,3 +39,5 @@ Brought to you by the Windows Developer Documentation team.
 [#17. Declarations of member functions](./posts/017.md)
 
 [#18. Definitions of member functions](./posts/018.md)
+
+[#19. Definitions of data members and classes/structs](./posts/019.md)
