@@ -40,4 +40,8 @@ Brought to you by the Windows Developer Documentation team.
 
 [#18. Definitions of member functions](./posts/018.md)
 
+[#19. Definitions of data members and classes/structs](./posts/019.md)
+
 [#20. Class/struct declarations](./posts/020.md)
+
+[#21. Error handling (Part 1)](./posts/021.md)
