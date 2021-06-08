@@ -45,3 +45,5 @@ Brought to you by the Windows Developer Documentation team.
 [#20. Class/struct declarations](./posts/020.md)
 
 [#21. Error handling (Part 1)](./posts/021.md)
+
+[#22. Error handling (Part 2)](./posts/022.md)
