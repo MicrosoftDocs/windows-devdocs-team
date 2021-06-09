@@ -47,3 +47,6 @@ Brought to you by the Windows Developer Documentation team.
 [#21. Error handling (Part 1)](./posts/021.md)
 
 [#22. Error handling (Part 2)](./posts/022.md)
+
+[#23. Throwing and catching exceptions (Part 1)](./posts/023.md)
+
