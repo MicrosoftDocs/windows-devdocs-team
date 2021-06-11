@@ -51,3 +51,5 @@ Brought to you by the Windows Developer Documentation team.
 [#23. Throwing and catching exceptions (Part 1)](./posts/023.md)
 
 [#24. Throwing and catching exceptions (Part 2)](./posts/024.md)
+
+[#25. Throwing and catching exceptions (Part 3)](./posts/025.md)
