@@ -58,3 +58,5 @@ Brought to you by the Windows Developer Documentation team.
 
 [#27. Best practices with exceptions (Part 2)](./posts/027.md)
 
+[#28. Best practices with exceptions (Part 3)](./posts/028.md)
+
