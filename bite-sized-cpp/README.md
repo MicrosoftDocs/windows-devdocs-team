@@ -60,3 +60,5 @@ Brought to you by the Windows Developer Documentation team.
 
 [#28. Best practices with exceptions (Part 3)](./posts/028.md)
 
+[#29. Why doesn't C++ have a `finally` construct? (Part 1)](./posts/029.md)
+
