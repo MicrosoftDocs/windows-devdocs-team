@@ -62,3 +62,5 @@ Brought to you by the Windows Developer Documentation team.
 
 [#29. Why doesn't C++ have a `finally` construct? (Part 1)](./posts/029.md)
 
+[#30. Why doesn't C++ have a `finally` construct? (Part 2)](./posts/030.md)
+
