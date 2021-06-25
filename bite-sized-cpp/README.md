@@ -1,6 +1,6 @@
 # Bite-sized C++
 
-Take one bite per day for a shallow on-ramp to ISO Standard C++, C++/WinRT, and programming with C++ and Project Reunion.
+Take one bite per day for a shallow on-ramp to ISO Standard C++, C++/WinRT, and programming with C++ and the [Windows App SDK](https://docs.microsoft.com/windows/apps/windows-app-sdk/).
 
 Brought to you by the Windows Developer Documentation team.
 
