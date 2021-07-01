@@ -70,3 +70,4 @@ Brought to you by the Windows Developer Documentation team.
 
 [#33. Automatic variables (Part 2)](./posts/033.md)
 
+[#34. Automatic variables (Part 3)](./posts/034.md)
