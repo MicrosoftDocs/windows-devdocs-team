@@ -77,3 +77,5 @@ Brought to you by the Windows Developer Documentation team.
 [#36. Why doesn't C++ have a `finally` construct? (Part 5)](./posts/036.md)
 
 [#37. Pop quiz!](./posts/037.md)
+
+[#38. Writing a string to output (Part 1)](./posts/038.md)
