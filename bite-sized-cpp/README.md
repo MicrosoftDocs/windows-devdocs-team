@@ -79,3 +79,5 @@ Brought to you by the Windows Developer Documentation team.
 [#37. Pop quiz!](./posts/037.md)
 
 [#38. Writing a string to output (Part 1)](./posts/038.md)
+
+[#39. Writing a string to output (Part 2)](./posts/039.md)
