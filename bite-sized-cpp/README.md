@@ -83,3 +83,5 @@ Brought to you by the Windows Developer Documentation team.
 [#39. Writing a string to output (Part 2)](./posts/039.md)
 
 [#40. C++ containers](./posts/040.md)
+
+[#41. C++ iterators](./posts/041.md)
