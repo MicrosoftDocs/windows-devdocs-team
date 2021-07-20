@@ -85,3 +85,5 @@ Brought to you by the Windows Developer Documentation team.
 [#40. C++ containers](./posts/040.md)
 
 [#41. C++ iterators](./posts/041.md)
+
+[#42. C++ iterators with `do-while` and `while`](./posts/042.md)
