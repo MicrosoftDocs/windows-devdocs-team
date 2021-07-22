@@ -87,3 +87,5 @@ Brought to you by the Windows Developer Documentation team.
 [#41. C++ iterators](./posts/041.md)
 
 [#42. C++ iterators with `do-while` and `while`](./posts/042.md)
+
+[#43. The for-loop](./posts/043.md)
