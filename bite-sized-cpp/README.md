@@ -89,3 +89,5 @@ Brought to you by the Windows Developer Documentation team.
 [#42. C++ iterators with `do-while` and `while`](./posts/042.md)
 
 [#43. The for-loop](./posts/043.md)
+
+[#44. Range-based `for` (Part 1)](./posts/044.md)
