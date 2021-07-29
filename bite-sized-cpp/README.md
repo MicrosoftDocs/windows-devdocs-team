@@ -91,3 +91,5 @@ Brought to you by the Windows Developer Documentation team.
 [#43. The for-loop](./posts/043.md)
 
 [#44. Range-based `for` (Part 1)](./posts/044.md)
+
+[#45. Range-based `for` (Part 2)](./posts/045.md)
