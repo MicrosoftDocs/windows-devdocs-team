@@ -93,3 +93,5 @@ Brought to you by the Windows Developer Documentation team.
 [#44. Range-based `for` (Part 1)](./posts/044.md)
 
 [#45. Range-based `for` (Part 2)](./posts/045.md)
+
+[#46. Range-based `for` (Part 3)](./posts/046.md)
