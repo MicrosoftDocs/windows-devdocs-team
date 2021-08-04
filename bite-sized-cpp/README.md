@@ -95,3 +95,5 @@ Brought to you by the Windows Developer Documentation team.
 [#45. Range-based `for` (Part 2)](./posts/045.md)
 
 [#46. Range-based `for` (Part 3)](./posts/046.md)
+
+[#47. Uniform initialization (Part 1)](./posts/047.md)
