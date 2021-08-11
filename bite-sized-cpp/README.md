@@ -101,3 +101,5 @@ Brought to you by the Windows Developer Documentation team.
 [#48. Uniform initialization (Part 2)](./posts/048.md)
 
 [#49. More formatted output using streams (Part 1)](./posts/049.md)
+
+[#50. More formatted output using streams (Part 2)](./posts/050.md)
