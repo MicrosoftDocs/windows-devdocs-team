@@ -105,3 +105,5 @@ Brought to you by the Windows Developer Documentation team.
 [#50. More formatted output using streams (Part 2)](./posts/050.md)
 
 [#51. The **std::for_each** algorithm (Part 1)](./posts/051.md)
+
+[#52. Procedure and policy (Part 1)](./posts/052.md)
