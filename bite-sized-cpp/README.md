@@ -109,3 +109,5 @@ Brought to you by the Windows Developer Documentation team.
 [#52. Procedure and policy (Part 1)](./posts/052.md)
 
 [#53. Procedure and policy (Part 2)](./posts/053.md)
+
+[#54. The **std::for_each** algorithm (Part 2)](./posts/054.md)
