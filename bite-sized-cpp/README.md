@@ -111,3 +111,5 @@ Brought to you by the Windows Developer Documentation team.
 [#53. Procedure and policy (Part 2)](./posts/053.md)
 
 [#54. The **std::for_each** algorithm (Part 2)](./posts/054.md)
+
+[#55. Zero-initializing a struct](./posts/055.md)
