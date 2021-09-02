@@ -115,3 +115,5 @@ Brought to you by the Windows Developer Documentation team.
 [#55. Zero-initializing a struct](./posts/055.md)
 
 [#56. Initializing a struct to *any* value](./posts/056.md)
+
+[#57. Default member initializers](./posts/057.md)
