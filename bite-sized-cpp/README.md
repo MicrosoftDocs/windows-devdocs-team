@@ -119,3 +119,5 @@ Brought to you by the Windows Developer Documentation team.
 [#57. Default member initializers](./posts/057.md)
 
 [#58. Initializer lists (Part 1)](./posts/058.md)
+
+[#59. Initializer lists (Part 2)](./posts/059.md)
