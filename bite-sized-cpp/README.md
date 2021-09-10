@@ -123,3 +123,5 @@ Brought to you by the Windows Developer Documentation team.
 [#59. Initializer lists (Part 2)](./posts/059.md)
 
 [#60. Value types in C++](./posts/060.md)
+
+[#61. Reference types in C++](./posts/061.md)
