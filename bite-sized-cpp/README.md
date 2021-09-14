@@ -125,3 +125,5 @@ Brought to you by the Windows Developer Documentation team.
 [#60. Value types in C++](./posts/060.md)
 
 [#61. Reference types in C++](./posts/061.md)
+
+[#62. Accessing via a reference](./posts/062.md)
