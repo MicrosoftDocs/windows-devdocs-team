@@ -127,3 +127,5 @@ Brought to you by the Windows Developer Documentation team.
 [#61. Reference types in C++](./posts/061.md)
 
 [#62. Accessing via a reference](./posts/062.md)
+
+[#63. Modifying via a reference](./posts/063.md)
