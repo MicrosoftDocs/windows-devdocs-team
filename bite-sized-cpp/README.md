@@ -131,3 +131,5 @@ Brought to you by the Windows Developer Documentation team.
 [#63. Modifying via a reference](./posts/063.md)
 
 [#64. Functions that take values (Part 1)](./posts/064.md)
+
+[#65. Functions that take values (Part 2)](./posts/065.md)
