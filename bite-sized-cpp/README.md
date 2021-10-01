@@ -141,3 +141,5 @@ Brought to you by the Windows Developer Documentation team.
 [#68. Functions that take references (Part 2)](./posts/068.md)
 
 [#69. Passing large values around](./posts/069.md)
+
+[#70. Passing by constant reference](./posts/070.md)
