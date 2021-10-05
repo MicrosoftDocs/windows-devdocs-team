@@ -143,3 +143,5 @@ Brought to you by the Windows Developer Documentation team.
 [#69. Passing large values around](./posts/069.md)
 
 [#70. Passing by constant reference](./posts/070.md)
+
+[#71. Naming conventions (snake_case)](./posts/071.md)
