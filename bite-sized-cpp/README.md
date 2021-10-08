@@ -147,3 +147,5 @@ Brought to you by the Windows Developer Documentation team.
 [#71. Naming conventions (snake_case)](./posts/071.md)
 
 [#72. Naming conventions (PascalCase and camelCase)](./posts/072.md)
+
+[#73. Naming conventions (private data members)](./posts/073.md)
