@@ -151,3 +151,5 @@ Brought to you by the Windows Developer Documentation team.
 [#73. Naming conventions (private data members)](./posts/073.md)
 
 [#74. Second pop quiz!](./posts/074.md)
+
+[#75. Returning a value](./posts/075.md)
