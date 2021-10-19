@@ -155,3 +155,5 @@ Brought to you by the Windows Developer Documentation team.
 [#75. Returning a value](./posts/075.md)
 
 [#76. Returning a reference](./posts/076.md)
+
+[#77. Returning a reference to a local variable](./posts/077.md)
