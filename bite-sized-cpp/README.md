@@ -157,3 +157,5 @@ Brought to you by the Windows Developer Documentation team.
 [#76. Returning a reference](./posts/076.md)
 
 [#77. Returning a reference to a local variable](./posts/077.md)
+
+[#78. What it means to *seat* a reference](./posts/078.md)
