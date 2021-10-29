@@ -165,3 +165,5 @@ Brought to you by the Windows Developer Documentation team.
 [#80. Why you can't re-seat a reference (Part 2)](./posts/080.md)
 
 [#81. Assign using references](./posts/081.md)
+
+[#82. Identity (Part 1)](./posts/082.md)
