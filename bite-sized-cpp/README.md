@@ -167,3 +167,5 @@ Brought to you by the Windows Developer Documentation team.
 [#81. Assign using references](./posts/081.md)
 
 [#82. Identity (Part 1)](./posts/082.md)
+
+[#83. Identity (Part 2)](./posts/083.md)
