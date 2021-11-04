@@ -169,3 +169,5 @@ Brought to you by the Windows Developer Documentation team.
 [#82. Identity (Part 1)](./posts/082.md)
 
 [#83. Identity (Part 2)](./posts/083.md)
+
+[#84. Identity (Part 3)](./posts/084.md)
