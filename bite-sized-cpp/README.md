@@ -173,3 +173,5 @@ Brought to you by the Windows Developer Documentation team.
 [#84. Identity (Part 3)](./posts/084.md)
 
 [#85 Overloading the equality operator](./posts/085.md)
+
+[#86 The `this` pointer (Part 1)](./posts/086.md)
