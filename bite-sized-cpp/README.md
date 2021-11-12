@@ -175,3 +175,5 @@ Brought to you by the Windows Developer Documentation team.
 [#85 Overloading the equality operator](./posts/085.md)
 
 [#86 The `this` pointer (Part 1)](./posts/086.md)
+
+[#87 The `this` pointer (Part 2)](./posts/087.md)
