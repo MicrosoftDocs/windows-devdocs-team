@@ -177,3 +177,5 @@ Brought to you by the Windows Developer Documentation team.
 [#86 The `this` pointer (Part 1)](./posts/086.md)
 
 [#87 The `this` pointer (Part 2)](./posts/087.md)
+
+[#88 The `this` pointer (Part 3)](./posts/088.md)
