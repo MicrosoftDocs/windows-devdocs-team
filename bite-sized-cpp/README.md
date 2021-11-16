@@ -179,3 +179,5 @@ Brought to you by the Windows Developer Documentation team.
 [#87 The `this` pointer (Part 2)](./posts/087.md)
 
 [#88 The `this` pointer (Part 3)](./posts/088.md)
+
+[#89 Overloading the inequality operator](./posts/089.md)
