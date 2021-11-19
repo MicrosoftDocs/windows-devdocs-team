@@ -181,3 +181,5 @@ Brought to you by the Windows Developer Documentation team.
 [#88 The `this` pointer (Part 3)](./posts/088.md)
 
 [#89 Overloading the inequality operator](./posts/089.md)
+
+[#90 Free functions vs member functions](./posts/090.md)
