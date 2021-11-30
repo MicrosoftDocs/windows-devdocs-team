@@ -185,3 +185,5 @@ Brought to you by the Windows Developer Documentation team.
 [#90 Free functions vs member functions](./posts/090.md)
 
 [#91 Construct, destruct, copy, and move](./posts/091.md)
+
+[#92 Aggregates](./posts/092.md)
