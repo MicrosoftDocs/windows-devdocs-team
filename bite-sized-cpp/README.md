@@ -187,3 +187,5 @@ Brought to you by the Windows Developer Documentation team.
 [#91 Construct, destruct, copy, and move](./posts/091.md)
 
 [#92 Aggregates](./posts/092.md)
+
+[#93 Compiler-generated special member functions](./posts/093.md)
