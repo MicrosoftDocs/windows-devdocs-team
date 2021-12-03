@@ -189,3 +189,5 @@ Brought to you by the Windows Developer Documentation team.
 [#92 Aggregates](./posts/092.md)
 
 [#93 Compiler-generated special member functions](./posts/093.md)
+
+[#94 A user-defined default constructor](./posts/094.md)
