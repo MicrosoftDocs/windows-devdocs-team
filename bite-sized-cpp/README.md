@@ -191,3 +191,5 @@ Brought to you by the Windows Developer Documentation team.
 [#93 Compiler-generated special member functions](./posts/093.md)
 
 [#94 A user-defined default constructor](./posts/094.md)
+
+[#95 A constructor that assigns to data members](./posts/095.md)
