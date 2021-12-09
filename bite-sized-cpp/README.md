@@ -193,3 +193,5 @@ Brought to you by the Windows Developer Documentation team.
 [#94 A user-defined default constructor](./posts/094.md)
 
 [#95 A constructor that assigns to data members](./posts/095.md)
+
+[#96 Member initializer lists](./posts/096.md)
