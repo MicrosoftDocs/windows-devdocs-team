@@ -195,3 +195,5 @@ Brought to you by the Windows Developer Documentation team.
 [#95 A constructor that assigns to data members](./posts/095.md)
 
 [#96 Member initializer lists](./posts/096.md)
+
+[#97 A default constructor that's explicitly defaulted](./posts/097.md)
