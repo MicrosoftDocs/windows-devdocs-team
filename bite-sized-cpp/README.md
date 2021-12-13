@@ -152,7 +152,7 @@ Brought to you by the Windows Developer Documentation team.
 
 [#74. Second pop quiz!](./posts/074.md)
 
-[#75. Returning a value](./posts/075.md)
+[#75. Returning a value (temporary objects)](./posts/075.md)
 
 [#76. Returning a reference](./posts/076.md)
 
