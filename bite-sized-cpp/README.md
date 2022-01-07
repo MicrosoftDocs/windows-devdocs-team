@@ -201,3 +201,5 @@ Brought to you by the Windows Developer Documentation team.
 [#98 A default constructor that's explicitly deleted](./posts/098.md)
 
 [#99 A parameterized constructor](./posts/099.md)
+
+[#100 Static data members](./posts/100.md)
