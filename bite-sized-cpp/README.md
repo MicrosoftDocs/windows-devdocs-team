@@ -199,3 +199,5 @@ Brought to you by the Windows Developer Documentation team.
 [#97 A default constructor that's explicitly defaulted](./posts/097.md)
 
 [#98 A default constructor that's explicitly deleted](./posts/098.md)
+
+[#99 A parameterized constructor](./posts/099.md)
