@@ -205,3 +205,5 @@ Brought to you by the Windows Developer Documentation team.
 [#100 Static data members](./posts/100.md)
 
 [#101 Constant data members](./posts/101.md)
+
+[#102 Static member functions](./posts/102.md)
