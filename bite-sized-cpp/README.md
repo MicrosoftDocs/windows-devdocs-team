@@ -209,3 +209,5 @@ Brought to you by the Windows Developer Documentation team.
 [#102 Static member functions](./posts/102.md)
 
 [#103 Constant member functions](./posts/103.md)
+
+[#104 Object-oriented concepts (encapsulation)](./posts/104.md)
