@@ -211,3 +211,5 @@ Brought to you by the Windows Developer Documentation team.
 [#103 Constant member functions](./posts/103.md)
 
 [#104 Object-oriented concepts (encapsulation)](./posts/104.md)
+
+[#105 Inheritance (generalization and specialization)](./posts/105.md)
