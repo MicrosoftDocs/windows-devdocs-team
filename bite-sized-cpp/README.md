@@ -213,3 +213,5 @@ Brought to you by the Windows Developer Documentation team.
 [#104 Object-oriented concepts (encapsulation)](./posts/104.md)
 
 [#105 Inheritance (generalization and specialization)](./posts/105.md)
+
+[#106 Polymorphism](./posts/106.md)
