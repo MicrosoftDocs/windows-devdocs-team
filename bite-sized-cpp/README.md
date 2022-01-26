@@ -215,3 +215,5 @@ Brought to you by the Windows Developer Documentation team.
 [#105 Inheritance (generalization and specialization)](./posts/105.md)
 
 [#106 Polymorphism](./posts/106.md)
+
+[#107 More about inheritance](./posts/107.md)
