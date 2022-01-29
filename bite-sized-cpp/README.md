@@ -219,3 +219,5 @@ Brought to you by the Windows Developer Documentation team.
 [#107 More about inheritance](./posts/107.md)
 
 [#108 Overriding](./posts/108.md)
+
+[#109 Virtual functions and pure virtual functions](./posts/109.md)
