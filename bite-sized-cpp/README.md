@@ -225,3 +225,5 @@ Brought to you by the Windows Developer Documentation team.
 [#110 A code example of polymorphism](./posts/110.md)
 
 [#111. Third pop quiz!](./posts/111.md)
+
+[#112. Function overloading](./posts/112.md)
